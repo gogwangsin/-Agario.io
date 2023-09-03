@@ -1,6 +1,6 @@
 
 #if 1
-
+// ¿ÀÀ× 
 #define _CRT_SECURE_NO_WARNINGS
 #include <windows.h>
 #include <tchar.h>
