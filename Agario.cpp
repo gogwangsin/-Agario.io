@@ -1,6 +1,6 @@
 
 #if 1
-// 오잉 
+// 오잉 비쥬얼스튜디오 2022
 #define _CRT_SECURE_NO_WARNINGS
 #include <windows.h>
 #include <tchar.h>
